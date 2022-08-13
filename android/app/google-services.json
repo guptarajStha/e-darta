@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760182648267",
+    "project_id": "e-darta-221b3",
+    "storage_bucket": "e-darta-221b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760182648267:android:5a589c80fe42b2a4371a4e",
+        "android_client_info": {
+          "package_name": "com.example.e_darta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760182648267-di2vk6q4cm76mjndf63i9giovabncef7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmX9eq5Z1vnCVfdxM7eCQPus4V4mQ0mGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760182648267-di2vk6q4cm76mjndf63i9giovabncef7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
